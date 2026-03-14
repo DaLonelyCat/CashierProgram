@@ -1,0 +1,222 @@
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV3.exe"
+Args length:	78/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV5.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV5.exe"
+Args length:	78/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.exe"
+Args length:	78/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.1.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.1.exe"
+Args length:	80/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.2.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.2.exe"
+Args length:	80/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.2.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\BinusProjects\Enrichment\MyBeans\CashierProgram\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin;C:\Users\chris\AppData\Local\Microsoft\WindowsApps;C:\Users\chris\AppData\Roaming\npm;D:\Projects\Flutter\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\chris\AppData\Local\Pub\Cache\bin;C:\tools\dart-sdk;D:\Projects\Flutter\Dart;C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe (OK)
+Version string: 1.021.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\RedHat\java-21-openjdk-21.0.10.0.7-1\bin\javaw.exe
+Launcher args:	-jar "D:\BinusProjects\Enrichment\MyBeans\CashierProgram\MyBeansCashierV6.2.exe"
+Args length:	80/32768 chars
+Exit code:	0
